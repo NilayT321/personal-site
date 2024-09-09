@@ -6,7 +6,9 @@ layout: home
 title: Welcome
 ---
 
-Hello there! I am Nilay Tripathi, a rising senior majoring in mathematics, statistics, and minoring in computer science. I currently attend Rutgers University and am an aspiring Ph.D. student, who will be applying for the Fall 2025 cycle.
+Hello there! I am Nilay Tripathi, a senior at Rutgers University where I am majoring in mathematics, statistics, and computer science. I am also an aspiring Ph.D. student and will be applying during the Fall 2025 admissions cycle. 
 
-In mathematics, I am vaguely interested in algebraic and differential topology and would like to pursue a Ph.D. in these fields. Apart from mathematics, I am also interested in artificial intelligence and machine learning. Namely, I am interested in the mathematical foundations behind deep learning neural networks. 
+Vaguely, my research interests are largely in algebraic topology and differential geometry. 
+
+Beyond mathematics, I am also interested in computer science and often embark on CS projects in my free time. I am particularly interested in lower-level systems programming (so programming at the operating system or kernel level) and artificial intelligence and machine learning. 
 

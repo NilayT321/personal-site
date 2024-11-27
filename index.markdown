@@ -6,7 +6,7 @@ layout: home
 title: Welcome
 ---
 
-Hello there! I am Nilay Tripathi, a senior at Rutgers University where I am majoring in mathematics, statistics, and computer science. I am also an aspiring Ph.D. student and will be applying during the Fall 2025 admissions cycle. 
+I am Nilay Tripathi, a senior at Rutgers University where I am majoring in mathematics, statistics, and computer science. I am also an aspiring Ph.D. student and will be applying during the Fall 2025 admissions cycle. 
 
 Vaguely, my research interests are largely in algebraic topology and differential geometry. 
 

@@ -1,0 +1,32 @@
+---
+layout: page
+title: Food
+---
+
+In my spare time, I love to cook and to experiment with some recipes. I mostly follow a lacto-ovo-vegeterian diet 
+(this means I consume dairy and eggs, but not other types of meat). Here, I have documented some of my recipes and 
+any other exceptional places I may visit. I am still quite new to this blogging thing, so these are the work of an 
+amateur enthusiast, and not anything professional.
+
+<br><br>
+
+{% for post in site.posts %}
+    {% if post.category contains 'food' %}
+        <style>
+            .post-title {font-size: 24pt}
+        </style>
+        <div class="post">
+            <span class="post-date"> {{post.date | date: '%B %-d, %Y'}} </span> <br>
+
+            <a href = "{{ site.baseurl }}{{post.url}}" class="post-title"> {{post.title}} </a> <br>
+            
+            <p class="post-excerpt">
+                
+                {% if post.content contains site.excerpt_separator %}
+                    {{post.excerpt}}
+                    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+                {% endif %}
+            </p>
+        </div>
+    {% endif %}
+{% endfor %}

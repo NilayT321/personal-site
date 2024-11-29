@@ -15,4 +15,4 @@ permalink: /about/
 # Links 
 
 - GitHub: [NilayT321](https://github.com/NilayT321)
-- LinkedIn: [Nilay Tripathi](https://www.linkedin.com/in/nilay-tripathi-895182253/)
+- Homepage: [Homepage]({{site.url}})

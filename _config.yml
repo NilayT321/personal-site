@@ -27,6 +27,7 @@ email: ntripathi2003@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  NilayT321
+repository: nilayt321/personal-site
 
 # Build settings
 theme: minima

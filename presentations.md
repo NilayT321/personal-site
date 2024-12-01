@@ -1,9 +1,16 @@
 ---
 layout: home
-title: Presentations & Notes
+title: Presentations & Talks
 --- 
 
 This page lists many of the expository presentations I have given during my student career. 
+
+## Talks
+
+Title: Introduction to Homology Groups & Applications (*RUMA Seminars* [^1]) <br>
+**Abstract**: Algebraic topology is a field of mathematics that studies topological spaces through algebraic invariants. In this talk, we discuss homology groups, one of the most widely studied and important topics in modern topology. We will give an introduction to homology groups, some elementary computations, and some applications to see what we can learn from them.
+
+[^1]: Rutgers Undergraduate Mathematics Association; seminar talks given by undergraduate students.
 
 ## Directed Reading Program 
 
